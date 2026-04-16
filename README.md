@@ -1,2 +1,2 @@
-# Kaze-Studio
+# Kaze-Studio-Inc.
 Visual novels
